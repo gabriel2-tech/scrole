@@ -10,5 +10,6 @@ class AuthController extends GetxController{
   void loginWithGoogle(){
     _authService.signInWithGoogle();
     authEnCour.value = true;
+    //
   }
 }

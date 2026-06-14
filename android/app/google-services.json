@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404454871210",
+    "project_id": "scrole-2682f",
+    "storage_bucket": "scrole-2682f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404454871210:android:e6ee6dbc11e63e629a80d3",
+        "android_client_info": {
+          "package_name": "com.example.scrole"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC20bPIh0A7FSstlSUPZRnzuzj7X9RpEtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
